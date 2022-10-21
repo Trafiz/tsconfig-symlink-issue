@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+    //   "target": "es6",
+    //   "lib": [
+    //     "dom",
+    //     "dom.iterable",
+    //     "esnext",
+    //     "es2020.string"
+    //   ],
+        "preserveSymlinks": true,
+    },
+    "include": [
+"a",
+"b",
+"c",
+    ],
+    "exclude": [
+        // "m/common/**/*",
+        // "s/common/**/*",
+    ]
+  }
